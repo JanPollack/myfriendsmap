@@ -1,0 +1,1 @@
+Placing all FB-Friends on a Google Map inside FB
